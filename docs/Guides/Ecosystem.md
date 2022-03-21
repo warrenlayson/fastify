@@ -172,6 +172,8 @@ section.
   plugin to authenticate HTTP requests based on api key and signature
 - [`fastify-appwrite`](https://github.com/Dev-Manny/fastify-appwrite) Fastify
   Plugin for interacting with Appwrite server.
+- [`fastify-argon2`](https://github.com/warrenlayson/fastify-argon2) Fastify 
+- plugin for argon2 hash, verify, and needsRehash
 - [`fastify-auth0-verify`](https://github.com/nearform/fastify-auth0-verify):
   Auth0 verification plugin for Fastify, internally uses
   [fastify-jwt](https://npm.im/fastify-jwt) and
